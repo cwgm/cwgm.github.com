@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+		<article class="full-post">
+			<h1 class="full-title">{{ page.title }}</h1>
+			{{ content }}
+			<div class="social">
+				<div class="addthis_toolbox addthis_default_style">
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+					<a class="addthis_button_tweet"></a>
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+				</div>
+			</div>
+			<div class="disqus">
+				<div id="disqus_thread"></div>
+			</div>
+		</article>
+		
+		<script>
+			{%if page.disqus %}
+				var disqus_url = '{{ page.disqus }}';
+			{%else %}
+				var disqus_url = 'http://toddmotto.com{{ page.url }}';
+			{% endif %}
+			var disqus_title = '{{ page.title }}';
+			var disqus_shortname = 'toddmotto';
+			(function() {
+				var dsq = document.createElement('script');
+				dsq.async = dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				document.getElementsByTagName('head')[0].appendChild(dsq);
+			})();
+		</script>
+		
+		<script src="//s7.addthis.com/js/250/addthis_widget.js"></script>

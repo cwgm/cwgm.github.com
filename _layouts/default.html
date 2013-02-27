@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		
+		<link rel="dns-prefetch" href="//www.google-analytics.com">
+		<link rel="author" href="//plus.google.com/104299354981726045306">
+
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		
+		<link href="/style.css" rel="stylesheet">
+		
+		<!--[if lte IE 8]>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="wrapper">
+			<header class="header box">
+				<div class="logo">
+					<a href="/">
+						<img src="/img/logo.svg" class="logo-img" alt="Logo">
+					</a>
+				</div>
+				<nav id="nav">
+					<ul class="nav">
+						<li><a href="/">Latest</a></li>
+						<li><a href="/downloads">Downloads</a></li>
+						<li><a href="/licensing">Licensing</a></li>
+						<li><a href="/contact">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+			
+			<section class="main">
+				{{ content }}
+			</section>
+			
+			<aside class="sidebar">
+				<img src="/img/todd.jpg" alt="Todd Motto">
+				<p class="item">
+					Todd Motto. Front-end web developer. HTML5 and CSS3 lover, JavaScript and jQuery addict. 
+					I make stuff like <a href="//conditionizr.com" target="_blank">Conditionizr</a> and 
+					<a href="//html5blank.com" target="_blank">HTML5 Blank</a>.
+				</p>
+				<div id="carbonads">
+					<div class="carbonad">
+						<div id="azcarbon"></div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="fb-like" data-href="http://facebook.com/toddmottoblog" data-send="false" 
+					data-width="100" data-show-faces="false" data-colorscheme="dark"></div>
+					<div id="fb-root"></div>
+				</div>
+				<div class="item">
+					<a href="//twitter.com/toddmotto" class="twitter-follow-button" data-show-count="true">Follow @toddmotto</a>
+				</div>
+			</aside>
+			
+			<footer class="footer">
+				&copy; {{ 'now' | date: "%Y" }} Todd Motto. 
+				Powered by <a href="//github.com/mojombo/jekyll">Jekyll</a>, 
+				site source code hosted on <a href="//github.com/toddmotto/toddmotto.github.com">GitHub</a>.
+			</footer>
+			
+		</div>
+		
+		<script src="/js/scripts.js"></script>
+		<script>
+			// Google Analytics
+			var _gaq=[['_setAccount','UA-20440416-10'],['_trackPageview']];
+			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';
+			s.parentNode.insertBefore(g,s)})(document,'script');
+		</script>
+	
+	</body>
+</html>
