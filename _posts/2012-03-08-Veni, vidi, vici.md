@@ -7,7 +7,6 @@ permalink: /veni-vidi-vici-and-all-that
 
 # Rome wasn’t built in a day — but once it got up and running, my goodness, didn’t it do well.
 
-
 It ruled one of the largest empires the world had ever seen and gave the world cities, language and legend that we still cling to after 2,000 years.
 
 But here’s the thing: you don’t get that big without reason. It takes organisation, efficiency and consistent high performance. Romans made every bit of their resources count — and that’s where their success came from. Even their roads were dead straight, meaning no wasted time. And their military tactics were ruthlessly effective. It took a lot more than a loin cloth and a spear to stop them in their tracks — as people everywhere from Baghdad to Hexham found out the hard way.
