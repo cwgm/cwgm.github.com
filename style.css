@@ -43,18 +43,18 @@ h2,
 h3,
 h4,
 h5 {
-	color:#2BA6CB;
+	color:#66A68B;
 	font-weight:100;
 }
 h3 {
 	margin:20px 0 20px -45px;
-	border-left:5px solid #2BA6CB;
+	border-left:5px solid #66A68B;
 	padding:0 0 0 40px;
 }
 a,
 a:hover,
 a:visited {
-	color:#2BA6CB;
+	color:#66A68B;
 	text-decoration:none;
 }
 p {
@@ -76,7 +76,7 @@ p {
 	width:100%;
 }
 .header {
-	border-left:8px solid #2BA6CB;
+	border-left:8px solid #66A68B;
 	margin:20px 0;
 	overflow:hidden;
 }
@@ -133,7 +133,7 @@ p {
 	margin:0 0 15px 30px;
 }
 .full-title {
-	color:#2BA6CB;
+	color:#66A68B;
 	font-size:20px;
 	margin:0 0 35px;
 }
@@ -150,7 +150,7 @@ p {
 	font-size:16px;
 }
 .post a:hover {
-	border-left:8px solid #2BA6CB;
+	border-left:8px solid #66A68B;
 }
 .post-title {
 	font-size:16px;
@@ -173,7 +173,7 @@ p {
 	color:#FFF;
 }
 .pagination a:hover {
-    color:#2BA6CB;
+    color:#66A68B;
     background:#333;
 }
 .pagination a,
@@ -252,7 +252,7 @@ iframe[src*="twitter"] {
 	margin:5px 15px 25px 0;
 }
 .download-box a:hover {
-	color:#2BA6CB;
+	color:#66A68B;
     background:#333;
 }
 .disqus {
