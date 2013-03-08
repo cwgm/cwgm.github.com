@@ -1,8 +1,8 @@
 ---
-title: The second one - just to see how things work
+title: Veni, vidi, vici and all that
 author: Chris Mackenzie
 layout: post
-permalink: /testing-post
+permalink: /veni-vidi-vici-and-all-that
 ---
 
 ### <a href="http://letstalk.globalservices.bt.com/en/2013/03/veni-vidi-vici-and-all-that/">Veni, vidi, vici and all that</a>
