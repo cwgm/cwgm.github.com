@@ -2,7 +2,7 @@
 title: David Bowie, the elves and the rest of Rudolph’s herd
 author: Chris Mackenzie
 layout: post
-permalink: /david-bowie-the-elves-and-the-rest-of-rudolfs-herd
+permalink: /david-bowie-the-elves-and-the-rest-of-rudolphs-herd
 ---
 
 ### Christmas is a time of contradictions. On the one hand it’s a relaxing time of year and everyone is a bit happier and more relaxed at work. On the other hand it’s full of stresses and worries, such as how to keep productivity high; how to organise all the presents you need to buy; and how to make sure you don’t overcook the most important meal of the year.
