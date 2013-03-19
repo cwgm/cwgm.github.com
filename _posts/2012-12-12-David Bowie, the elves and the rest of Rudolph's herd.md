@@ -8,7 +8,7 @@ permalink: /david-bowie-the-elves-and-the-rest-of-rudolfs-herd
 ### Christmas is a time of contradictions. On the one hand it’s a relaxing time of year and everyone is a bit happier and more relaxed at work. On the other hand it’s full of stresses and worries, such as how to keep productivity high; how to organise all the presents you need to buy; and how to make sure you don’t overcook the most important meal of the year.
 
 <div class="download-box">
-    <a href="//http://letstalk.globalservices.bt.com/en/2012/12/david-bowie-the-elves-and-the-rest-of-rudolphs-herd/" target="_blank">View original post</a>
+    <a href="//letstalk.globalservices.bt.com/en/2012/12/david-bowie-the-elves-and-the-rest-of-rudolphs-herd" target="_blank">View original post</a>
 </div>
 
 What would be really great is if there was a way to take some of the load off your plate. It seems to be how all the big players of Christmas get things done. After all, Santa has his elves, Rudolph has the rest of the herd; and the snowman had David Bowie.
