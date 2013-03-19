@@ -5,9 +5,9 @@ layout: post
 permalink: /the-rise-of-the-foodie
 ---
 
-### It’s hard to put a finger on when it all started. It could have been when cookery books started being coffee-table glossies to drool over. Or when Hugh Fearnley-Whittingstall's red Land Rover pulled up at River Cottage for the first time. 
+### It’s hard to put a finger on when it all started. It could have been when cookery books started being coffee-table glossies to drool over. Or when Hugh Fearnley-Whittingstall's red Land Rover solwed to a halt outside River Cottage for the first time. 
 
-It might just have been that we got bored of the same old food staples — the ones that came in with rationing and somehow led us to forget our rich food history.
+It might just be that we got bored of the same old food staples — the ones that came in with rationing and somehow led us to forget our rich food history.
 
 Whatever it was, one minute we were being derided for the quality of our food; the next we’re leading the world and British foodies were pouring out of the woodwork, looking for their next fix.
 
