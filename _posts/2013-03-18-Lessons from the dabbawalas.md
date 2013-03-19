@@ -13,7 +13,7 @@ permalink: /lessons-from-the-dabbawalas
 
 Thousands of these porters pour into the station every day, with hundreds of thousands of cylindrical metal lunch boxes — or tiffins — tied to bicycles, strung on yokes, loaded on pallets and balanced on heads. 
 
-It’s an incredible sight. All the more so because what looks like chaos, ends with office workers all over Mumbai getting a hot, home-cooked meal, delivered to their desks, every day, for a matter of pence. Individual meals, collected from home or from a restaurant, arrive steaming fresh and on time. It’s a marvel of logistics and human ingenuity with an incredibly low error rate. And it means workers get nutritious food provided in a convenient and cost-effective way.
+It’s an incredible sight. All the more so because what looks like chaos, ends with office workers all over Mumbai getting a hot, home-cooked meal, delivered to their desks, every day, for a matter of pence. It’s a marvel of logistics and human ingenuity with an incredibly low error rate. And it means workers get nutritious food provided in a convenient and cost-effective way.
 
 In fact the thali meals inside the tiffins are beginning to gain a bit of traction in the UK, with entrepreneurs around the country seeing the appeal of both the healthy food they contain, and the dabbawalas that deliver them.
 
