@@ -2,10 +2,14 @@
 title: Veni, vidi, vici and all that
 author: Chris Mackenzie
 layout: post
-permalink: /client-blogs/veni-vidi-vici-and-all-that
+permalink: /veni-vidi-vici-and-all-that
 ---
 
 ### Rome wasn’t built in a day — but once it got up and running, my goodness, didn’t it do well.
+
+<div class="download-box">
+    <a href="//letstalk.globalservices.bt.com/en/2013/03/veni-vidi-vici-and-all-that">View origional post</a>
+</div>
 
 It ruled one of the largest empires the world had ever seen and gave the world cities, language and legend that we still cling to after 2,000 years.
 
