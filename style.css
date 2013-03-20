@@ -1,6 +1,6 @@
 /*
-	Todd Motto
-	URL: www.toddmotto.com
+	Chris Mackenzie
+	URL: www.cwgm.co.uk
 */
 
 /*------------------------------------*\
@@ -78,6 +78,7 @@ p {
 .header {
 	border-left:8px solid #66A68B;
 	margin:20px 0;
+	padding:15px 40px !important;
 	overflow:hidden;
 }
 .footer {
@@ -97,7 +98,7 @@ p {
 }
 .nav {
 	float:right;
-	margin:15px 0 0 0;
+	margin:40px 0 0 0;
 }
 .nav li {
 	display:inline-block;
