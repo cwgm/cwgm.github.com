@@ -9,6 +9,7 @@ layout: page
 		<h2>asabell eMagazine: The social media edition</h2>
 		<h4>The first edition of asabell's quarterly eMagazine looks at B2B social media, and how to businesses can make it work for them,</h4>
 		<a href="//asabell.co.uk/emag/dec/#/2"  target="_blank">Go</a>
+		<a href="//asabell.co.uk/emag/dec/#/2"  target="_blank">Go</a>
 	</div>
 </div>
 <div class="download-item">
