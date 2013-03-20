@@ -11,8 +11,6 @@ permalink: /notes-on-a-scandal
     <a href="//asabell.co.uk/notes-on-a-scandal" target="_blank">View original post</a>
 </div>
 
-You have to feel sorry for whoever mans the Twitter feed at the Evening Standard. 
-
 They’ve been suspended ‘pending an investigation’ after the paper shot its load and prematurely posted an image of its front page (complete with all the important bits of today’s budget) before the chancellor had even shot his cuffs and flexed his jowls.
 
 Predictably the country is awash with chatter. And as the row continues, I can’t help feeling that it’s already been blown well out of proportion. Nevertheless, there are some interesting points to address and important lessons to be learned.
