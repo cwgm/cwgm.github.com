@@ -1,5 +1,5 @@
 ---
-title: Downloads
+title: Links & downloads
 layout: page
 ---
 
