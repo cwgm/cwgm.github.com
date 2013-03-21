@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="download-item">
-	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
+	<img src="/img/downloads/emag1.jpg" alt="eMagazine">
 	<div class="download-details">
 		<h2>asabell eMagazine: The social media edition</h2>
 		<h4>The first edition of asabell's quarterly eMagazine looks at B2B social media, and how to businesses can make it work for them.</h4>
