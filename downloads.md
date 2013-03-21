@@ -19,7 +19,7 @@ layout: page
 		<a href="//cwgm.co.uk/pdfs/instant_globalisation.pdf"  target="_blank">Go</a>
 	</div>
 </div>
-div class="download-item">
+<div class="download-item">
 	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
 	<div class="download-details">
 		<h2>A BT white paper: The power of the individial</h2>
