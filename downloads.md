@@ -14,16 +14,16 @@ layout: page
 <div class="download-item">
 	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
 	<div class="download-details">
+		<h2>Instant globalisation</h2>
+		<h4>From a series of BT white papers called: Connecting for a Better Future.</h4>
+		<a href="//cwgm.co.uk/pdfs/instant_globalisation.pdf"  target="_blank">Go</a>
+	</div>
+</div>
+div class="download-item">
+	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
+	<div class="download-details">
 		<h2>The power of the individial</h2>
 		<h4>From a series of BT white papers called: Connecting for a Better Future.</h4>
 		<a href="//cwgm.co.uk/pdfs/cwgm_the_power_of_the_individual.pdf"  target="_blank">Go</a>
-	</div>
-</div>
-<div class="download-item">
-	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
-	<div class="download-details">
-		<h2>Instant Globalisation</h2>
-		<h4>From a series of BT white papers called: Connecting for a Better Future.</h4>
-		<a href="//cwgm.co.uk/pdfs/instant_globalisation.pdf"  target="_blank">Go</a>
 	</div>
 </div>
