@@ -12,7 +12,7 @@ layout: page
 	</div>
 </div>
 <div class="download-item">
-	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
+	<img src="/img/downloads/cwgm-instant-globalisation.jpg" alt="Instant globalisation">
 	<div class="download-details">
 		<h2>A BT white paper: Instant globalisation</h2>
 		<h4>From the Connecting for a Better Future series.</h4>
@@ -20,7 +20,7 @@ layout: page
 	</div>
 </div>
 <div class="download-item">
-	<img src="/img/downloads/fluidvids.jpg" alt="FluidVids">
+	<img src="/img/downloads/cwgm-power-individual.jpg" alt="The power of the individual">
 	<div class="download-details">
 		<h2>A BT white paper: The power of the individial</h2>
 		<h4>From the Connecting for a Better Future series.</h4>
