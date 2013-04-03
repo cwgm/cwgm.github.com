@@ -15,7 +15,7 @@ For the first time in history the growth of new technology is being fuelled by c
 
 Directly or not, this consumerisation of technology has led to a change in the expectations people have about how they live and do business. The always-on connectivity we’ve come to expect, and the faceless interaction we’ve come to value, have rewritten the rules. And if you have a problem then you expect to have it dealt with when you want, how you want, by someone who cares.
 
-And it is this expectation that has taken the power out of the hands of businesses and put it firmly into the hands of their customers. Because people are connected at all hours of the day and night, so it follows that they should want the freedom to interact with businesses beyond traditional office hours. And it’s this change that has the biggest implications for your marketing.
+It's this expectation that has taken the power out of the hands of businesses and put it firmly into the hands of their customers. Because people are connected at all hours of the day and night, so it follows that they should want the freedom to interact with businesses beyond traditional office hours. And it’s this change that has the biggest implications for your marketing.
 
 In an instant a blog, tweet, or video clip can be seen by millions around the world, and your reputation could be on the line in seconds. It means that with technology magnifying the influence of your customers, consideration is needed to help your business win over hearts and minds.
 
