@@ -19,7 +19,7 @@ As opposed to the old world of security that centred around users, with consumer
 
 The first focuses on new internet-enabled devices — like iPhones and Kindles — where the vendors maintain closer control over the hardware and software than before. The second on those services that hold our data for us, such as email accounts.
 
-One of the big asks of this shifting trend is that we trust the security these vendors offer, which we do because it’s convenient. We like being able to log into our email from anywhere. We like be able to back-up our digital life and restore it when we lose stuff, and we like the synchronicity of having our appointments mapped across our devices.
+One of the big asks of this shifting trend is that we trust the security these vendors offer, which we do because it’s convenient. We like being able to log into our email from anywhere. We like to be able to back-up our digital life and restore it when we lose stuff. And we like the synchronicity of having our appointments mapped across our devices.
 
 We give up a certain amount of control, and in exchange we trust that the vendors we put our faith in will treat us well and protect us from harm. In this system, trust is our only option, and we have no say or control over the security provided.
 
