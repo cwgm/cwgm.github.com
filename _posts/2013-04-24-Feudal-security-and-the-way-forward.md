@@ -8,7 +8,7 @@ permalink: /feudal-security-and-the-way-forward
 ### It’s easy to think we’ve come a long way from the days of feudalism, but Bruce Schneier argues that it’s still rife in our modern lives.
 
 <div class="download-box">
-    <a href="//http://letstalk.globalservices.bt.com/en/security/2013/02/feudal-security-and-the-way-forward" target="_blank">View original post</a>
+    <a href="//letstalk.globalservices.bt.com/en/security/2013/02/feudal-security-and-the-way-forward" target="_blank">View original post</a>
 </div>
 
 If it’s not the banks we keep our money with or the football teams we support, then it’s the devices and software companies we choose to associate ourselves with. Apple or Android; iPhone or Nokia; Gmail or Hotmail — the technology we choose says a lot about us. But is our unwavering loyalty misplaced?
